@@ -15,13 +15,12 @@ require (
 	github.com/filecoin-project/go-amt-ipld v0.0.0-20191205011053-79efc22d6cdc
 	github.com/filecoin-project/go-cbor-util v0.0.0-20191219014500-08c40a1e63a2
 	github.com/filecoin-project/go-crypto v0.0.0-20191218222705-effae4ea9f03
-	github.com/filecoin-project/go-fil-components v0.0.0-20191209202555-21dd66ba3701
+	github.com/filecoin-project/go-data-transfer v0.0.0-20191219005021-4accf56bd2ce
 	github.com/filecoin-project/go-paramfetch v0.0.0-20200102181131-b20d579f2878
 	github.com/filecoin-project/go-sectorbuilder v0.0.0-20200107152336-0cbb2c483013
 	github.com/filecoin-project/go-statestore v0.0.0-20200102200712-1f63c701c1e5
 	github.com/gbrlsnchs/jwt/v3 v3.0.0-beta.1
 	github.com/go-ole/go-ole v1.2.4 // indirect
-	github.com/google/go-cmp v0.3.1 // indirect
 	github.com/gorilla/mux v1.7.3
 	github.com/gorilla/websocket v1.4.1
 	github.com/hashicorp/go-multierror v1.0.0
@@ -81,8 +80,6 @@ require (
 	github.com/multiformats/go-multiaddr-net v0.1.1
 	github.com/multiformats/go-multihash v0.0.10
 	github.com/multiformats/go-varint v0.0.2
-	github.com/onsi/ginkgo v1.9.0 // indirect
-	github.com/onsi/gomega v1.6.0 // indirect
 	github.com/opentracing/opentracing-go v1.1.0
 	github.com/polydawn/refmt v0.0.0-20190809202753-05966cbd336a
 	github.com/stretchr/testify v1.4.0
